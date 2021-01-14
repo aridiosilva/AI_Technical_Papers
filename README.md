@@ -469,6 +469,8 @@ AlexNet is a classic convolutional neural network architecture. It consists of c
 
 [Source: Technical Paper - ImageNet Classification with Deep Convolutional Neural Networks]()
 
+[AlexNet]{https://d2l.ai/chapter_convolutional-modern/alexnet.html?highlight=alexnet
+
 [Code Snippet](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
 
 ```python
