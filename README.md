@@ -17,15 +17,17 @@ There are various architectures of CNNs available which have been key in buildin
 
 Convolutional Neural Networks are used to extract features from images, employing convolutions as their primary operator. Below you can find a continuously updating list of convolutional neural networks.
 
-- [ResNet - 2015](#resnet - 2015)
-- [AlexNet 2012](#alexnet 2012)
-- [VGG 2014](#vgg 2014) 
-- [DenseNet 2016](#densenet 2016)	
-- [MobileNetV2 2018](#mobilenetv2 2901)	
-- [GoogLeNet 2014](#googlenet 2014)	
-- [ResNeXt 2016](#resnect 2016)
-- [Darknet-53 2018](#darkent-53 2018)	
-- [EfficientNet 2019](#efficientnet 2019)	
+### List of Methods found in Convolutional Neural Networks (CNN)
+
+- [ResNet](#resnet)
+- [AlexNet](#alexnet)
+- [VGG](#vgg) 
+- [DenseNet](#densenet)	
+- [MobileNetV2](#mobilenetv2)	
+- [GoogLeNet](#googlenet)	
+- [ResNeXt](#resnect)
+- [Darknet-53](#darkent-53)	
+- [EfficientNet](#efficientnet)	
 
 >  - Xception                2017	    64	
 >  - SqueezeNet              2016	    58	
@@ -107,7 +109,7 @@ Convolutional Neural Networks are used to extract features from images, employin
 >  - GreedyNAS-A             2020	    1	
 >  - SKNet                   2000	    0	
  
-### ResNet - 2015	
+# ResNet	
 
 Introduced by He et al. in Deep Residual Learning for Image Recognition
 
@@ -475,7 +477,7 @@ def wide_resnet101_2(pretrained=False, progress=True, **kwargs):
 ```
 
 
-# AlexNet - 2012	
+# AlexNet	
 
 Introduced by Krizhevsky et al. in ImageNet Classification with Deep Convolutional Neural Networks
 
@@ -701,7 +703,7 @@ if __name__ == '__main__':
         }
         torch.save(state, checkpoint_path)
 ```
-#  VGG - 2014	
+# VGG	
 
 Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition
  
@@ -892,7 +894,7 @@ def vgg19_bn(pretrained=False, progress=True, **kwargs):
     return _vgg('vgg19_bn', 'E', True, pretrained, progress, **kwargs)
 ```
 
-# DenseNet - 2016	
+# DenseNet	
 
 Introduced by Huang et al. in Densely Connected Convolutional Networks
  
@@ -1178,9 +1180,8 @@ def densenet201(pretrained=False, progress=True, **kwargs):
     return _densenet('densenet201', 32, (6, 12, 48, 32), 64, pretrained, progress,
                      **kwargs)
 ```
-
  
-# MobileNetV2 - 2018	
+# MobileNetV2	
 
 Introduced by Sandler et al. in MobileNetV2: Inverted Residuals and Linear Bottlenecks
 
@@ -1378,12 +1379,10 @@ def mobilenet_v2(pretrained=False, progress=True, **kwargs):
     return model
 ```
 
-# GoogLeNet 2014	
+# GoogLeNet	
 
-GoogLeNet
-Introduced by Szegedy et al. in Going Deeper with Convolutions
+GoogLeNet Introduced by Szegedy et al. in Going Deeper with Convolutions
  
- Edit
 GoogLeNet is a type of convolutional neural network based on the Inception architecture. It utilises Inception modules, which allow the network to choose between multiple convolutional filter sizes in each block. An Inception network stacks these modules on top of each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid.
 
 [Source:   Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842v1)
@@ -1688,147 +1687,147 @@ class BasicConv2d(nn.Module):
  ```
  
 
-# ResNeXt 2016	
+# ResNeXt
 
-# Darknet-53 2018	
+# Darknet-53	
 
-# EfficientNet 2019		
+# EfficientNet		
 
-# Xception 2017	
+# Xception	
 
-# SqueezeNet 2016		
+# SqueezeNet		
 
-# Inception-v3 2015		
+# Inception-v3		
 
-# LeNet 1998	
+# LeNet
 
-# MobileNetV1 2017	
+# MobileNetV1
 
-# Darknet-19  2016	
+# Darknet-19	
 
-# WideResNet 2016
+# WideResNet
 
-# ShuffleNet 2017
+# ShuffleNet
 
-# MobileNetV3 2019
+# MobileNetV3
 
-# SENet 2017	
+# SENet
 
-# CSPDarknet53 2020
+# CSPDarknet53
 
-# MnasNet 2018	
+# MnasNet	
 
-# HRNet 2019
+# HRNet
 
-# Inception-ResNet-v2 2016
+# Inception-ResNet-v2
 
-# PCB 2017	
+# PCB
 
-# DPN 2017	
+# DPN	
 
-# ShuffleNet v2 2018	
+# ShuffleNet V2	
 
-# Inception v2 2015
+# Inception V2
 
-# Inception-v4  2016
+# Inception-v4 
 
-# OverFeat 2013	
+# OverFeat	
 
-# CheXNet 2017	
+# CheXNet	
 
-# PyramidNet 2016	
+# PyramidNet	
 
-# AmoebaNet 2018	
+# AmoebaNet	
 
-# FractalNet 2016	
+# FractalNet	
 
-# RevNet 2017	
+# RevNet	
 
-# SimpleNet 2016
+# SimpleNet
 
-# FBNet 2018	
+# FBNet	
 
-# DetNet 2018	
+# DetNet	
 
-# SpineNet 2019	
+# SpineNet	
 
-# SNet 2019	
+# SNet	
 
-# ResNet-D 2018	
+# ResNet-D	
 
-# ZFNet 2013	
+# ZFNet	
 
-# Single-path NAS 2019
+# Single-path NAS
 
-# SqueezeNeXt 2018	
+# SqueezeNeXt	
 
-# MixNet 2019	
+# MixNet	
 
-# PeleeNet 2018	
+# PeleeNet	
 
-# CSPResNeXt 2019	
+# CSPResNeXt	
 
-# GhostNet 2019	
+# GhostNet	
 
-# ResNeSt 2020	
+# ResNeSt	
 
-# DenseNet-Elastic 2018
+# DenseNet-Elastic
 
-# RegNetY 2020	
+# RegNetY
 
-# ScaleNet 2019	
+# ScaleNet	
 
-# VoVNet 2019	
+# VoVNet	
 
-# ProxylessNet-GPU 2018	
+# ProxylessNet-GPU	
 
-# ProxylessNet-Mobile 2018	
+# ProxylessNet-Mobile	
 
-# Assemble-ResNet 2020	
+# Assemble-ResNet	
 
-# McKernel 2017	
+# McKernel
 
-# ProxylessNet-CPU 2018	
+# ProxylessNet-CPU	
 
-# Big-Little Net 2018	
+# Big-Little Net	
 
-# TResNet 2020	
+# TResNet
 
-# DenseNAS-B 2019	
+# DenseNAS-B	
 
-# DetNASNet 2019	
+# DetNASNet	
 
-# GreedyNAS-C 2020	
+# GreedyNAS-C	
 
-# RandWire 2019	
+# RandWire	
 
-# CSPDenseNet-Elastic 2019	
+# CSPDenseNet-Elastic	
 
-# PReLU-Net 2015	
+# PReLU-Net	
 
-# DiCENet 2019	
+# DiCENet	
 
-# Deep-CAPTCHA 2020	
+# Deep-CAPTCHA	
 
-# CSPDenseNet 2019	
+# CSPDenseNet	
 
-# CornerNet-Squeeze Hourglass 2019	
+# CornerNet-Squeeze Hourglass	
 
-# RegNetX 2020	
+# RegNetX	
 
-# SPP-Net 2014	
+# SPP-Net	
 
-# DenseNAS-A 2019	
+# DenseNAS-A	
 
-# ResNeXt-Elastic 2018	
+# ResNeXt-Elastic	
 
-# VoVNetV2 2019	
+# VoVNetV2	
 
-# MultiGrain 2019	
+# MultiGrain	
 
-# DenseNAS-C 2019	
+# DenseNAS-C	
 
-# ESPNetv2 2018	
+# ESPNetv2	
 
 # MoGA-C 2019	
 
