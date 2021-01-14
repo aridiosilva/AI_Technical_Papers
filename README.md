@@ -17,11 +17,13 @@ There are various architectures of CNNs available which have been key in buildin
 
 Convolutional Neural Networks are used to extract features from images, employing convolutions as their primary operator. Below you can find a continuously updating list of convolutional neural networks.
 
->   METHOD	                   YEAR	   PAPERS	
->   ======================   =====   =======
->  - ResNet                  2015	    1017	
->  - AlexNet                 2012	    287	
->  - VGG                     2014	    261	 
+- [SRP Single Responsability Principle](#srp-single-responsability-principle)
+
+>   (YEAR) (PAPERS      ) (           METHOD          )	
+>   ===================================================
+>  - 2015	 (Papers 2017	) [ResNet 1017](#resnet 2017)
+>  - 2012	 (Papers  287	) [AlexNet 2012](#alexnet 2012)
+>  - 2014	 (Papers  261	) [VGG 2014](#vgg 2014) 
 >  - DenseNet                2016	    217	
 >  - MobileNetV2             2018	    123	
 >  - GoogLeNet               2014     110	
