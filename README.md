@@ -97,7 +97,7 @@ Convolutional networks were inspired by biological processes in that the connect
 
 There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future. Some of them have been listed below:
 
-![](https://paperswithcode.com/methods/category/convolutional-neural-networks)
+(https://paperswithcode.com/methods/category/convolutional-neural-networks)
 
 
 - ResNet - 2015	
