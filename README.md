@@ -28,87 +28,86 @@ Convolutional Neural Networks are used to extract features from images, employin
 - [ResNeXt](#resnect)
 - [Darknet-53](#darkent-53)	
 - [EfficientNet](#efficientnet)	
+- [Xception](#Xception)
+- [SqueezeNet](#squeezenet)
+- [Inception-v3](#inception-v3)
+- [LeNet](#lenet)
+- [MobileNetV1])(#)
+- [Darknet-19](#)
+- [WideResNet](#)
+- [ShuffleNet](#)
+- [MobileNetV3](#)
+- [SENet](#)
+- [CSPDarknet53](#)
+- [MnasNet](#)
+- [HRNet](#)
+- [Inception-ResNet-v2](#)
+- [PCB](#)
+- [DPN](#)
+- [ShuffleNet v2](#)
+- [Inception v2](#)
+- [Inception-v4](#)
+- [OverFeat](#)
+- [CheXNet](#)
+- [PyramidNet](#)
+- [AmoebaNet](#)
+- [FractalNet](#)
+- [RevNet](#)
+- [SimpleNet](#)
+- [FBNet](#)
+- [DetNet](#)
+- [SpineNet](#)
+- [SNet](#)
+- [ResNet-D](#)
+- [ZFNet](#)
+- [Single-path NAS](#)
+- [SqueezeNeXt](#)
+- [MixNet](#)
+- [PeleeNet](#)
+- [CSPResNeXt](#)
+- [GhostNet](#)
+- [ResNeSt](*#)
+- [DenseNet-Elastic](#)
+- [RegNetY](#)
+- [ScaleNet](#)
+- [VoVNet](#)
+- [ProxylessNet-GPU](#)
+- [ProxylessNet-Mobile](#)
+- [Assemble-ResNet](#)
+- [McKernel](#)
+- [ProxylessNet-CPU](#)
+- [Big-Little Net](#)
+- [TResNet](#)
+- [DenseNAS-B](#)
+- [DetNASNet](#)
+- [GreedyNAS-C](#)
+- [RandWire](#)
+- [CSPDenseNet-Elastic](#)
+- [PReLU-Net](#)
+- [DiCENet](#)
+- [Deep-CAPTCHA](#)
+- [CSPDenseNet](#)
+- [CornerNet-Squeeze Hourglass](#)
+- [RegNetX](#)
+- [SPP-Net](#)
+- [DenseNAS-A](#)
+- [ResNeXt-Elastic](#)
+- [VoVNetV2](#)
+- [MultiGrain](#)
+- [DenseNAS-C](#)
+- [ESPNetv2](#)
+- [MoGA-C](#)
+- [Harm-Net](#)
+- [CSPPeleeNet](#)
+- [uNetXST](#)
+- [GreedyNAS-B](#)
+- [MoGA-B](*)
+- [ECA-Net](#)
+- [SCARLET](#)
+- [MoGA-A](#)
+- [GreedyNAS-A](#)
+- [SKNet](#)
 
->  - Xception                2017	    64	
->  - SqueezeNet              2016	    58	
->  - Inception-v3            2015     54	
->  - LeNet                   1998	    44	
->  - MobileNetV1             2017	    38	
->  - Darknet-19              2016	    38	
->  - WideResNet              2016	    31	
->  - ShuffleNet              2017	    25	
->  - MobileNetV3             2019	    16	
->  - SENet                   2017	    15	
->  - CSPDarknet53            2020	    15 	
->  - MnasNet                 2018	    12	
->  - HRNet                   2019	    12	
->  - Inception-ResNet-v2     2016	    11	
->  - PCB                     2017	    11	
->  - DPN                     2017	    9	
->  - ShuffleNet v2           2018	    9	
->  - Inception v2            2015 	   9	
->  - Inception-v4            2016	    8	
->  - OverFeat                2013	    7	
->  - CheXNet                 2017	    7	
->  - PyramidNet              2016	    7	
->  - AmoebaNet               2018	    6	
->  - FractalNet              2016	    6	
->  - RevNet                  2017	    5	
->  - SimpleNet               2016	    5	
->  - FBNet                   2018	    5	
->  - DetNet                  2018	    4	
->  - SpineNet                2019	    4	
->  - SNet                    2019	    4	
->  - ResNet-D                2018	    4	
->  - ZFNet                   2013	    4	
->  - Single-path NAS         2019	    4	
->  - SqueezeNeXt             2018	    3	
->  - MixNet                  2019	    3	
->  - PeleeNet                2018	    3	
->  - CSPResNeXt              2019	    2	
->  - GhostNet                2019	    2	
->  - ResNeSt                 2020	    2	
->  - DenseNet-Elastic        2018     2	
->  - RegNetY                 2020     2	
->  - ScaleNet                2019     2	
->  - VoVNet                  2019	    2	
->  - ProxylessNet-GPU        2018	    2	
->  - ProxylessNet-Mobile     2018	    2	
->  - Assemble-ResNet         2020	    2	
->  - McKernel                2017	    2	
->  - ProxylessNet-CPU        2018	    2	
->  - Big-Little Net          2018	    2	
->  - TResNet                 2020	    1	
->  - DenseNAS-B              2019	    1	
->  - DetNASNet               2019	    1	
->  - GreedyNAS-C             2020	    1	
->  - RandWire                2019	    1	
->  - CSPDenseNet-Elastic     2019	    1	
->  - PReLU-Net               2015	    1	
->  - DiCENet                 2019	    1	
->  - Deep-CAPTCHA            2020	    1	
->  - CSPDenseNet             2019	    1	
->  - CornerNet-Squeeze Hourglass 2019 1	
->  - RegNetX                 2020	    1	
->  - SPP-Net                 2014	    1	
->  - DenseNAS-A              2019	    1	
->  - ResNeXt-Elastic         2018	    1	
->  - VoVNetV2                2019	    1	
->  - MultiGrain              2019	    1	
->  - DenseNAS-C              2019	    1	
->  - ESPNetv2                2018	    1	
->  - MoGA-C                  2019	    1	
->  - Harm-Net                2020	    1	
->  - CSPPeleeNet             2019	    1	
->  - uNetXST                 2020	    1	
->  - GreedyNAS-B             2020	    1	
->  - MoGA-B                  2019	    1	
->  - ECA-Net                 2019	    1	 
->  - SCARLET                 2019	    1	
->  - MoGA-A                  2019	    1	
->  - GreedyNAS-A             2020	    1	
->  - SKNet                   2000	    0	
- 
 # ResNet	
 
 Introduced by He et al. in Deep Residual Learning for Image Recognition
