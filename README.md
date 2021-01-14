@@ -1,7 +1,10 @@
 # AI_Technical_Papers
 
-Papers about algorithms related to  the field of AI, Machine Learning, Deep Learning and Neural Networks. In this repository there dozens of technical articles describing aalgorithms related to Artificial Intelligence.
+Papers about algorithms related to  the field of AI, Machine Learning, Deep Learning and Neural Networks. In this repository there dozens of technical articles describing algorithms related to Artificial Intelligence.
 
+# Dive Into Deep Learning
+
+[excellent source - Dive Into Deep Learning ](https://d2l.ai/index.html))
 
 # Convolutional Neural Network (CNN or ConvNet)
 
@@ -1943,3 +1946,6 @@ Multiple linear regression is a regression model that estimates the relationship
 ## Logistic Regression (LR)
 
 Logistic regression is a classification algorithm. It is used to predict a binary outcome based on a set of independent variables. A binary outcome is one where there are only two possible scenarios—either the event happens (1) or it does not happen (0). Independent variables are those variables or factors which may influence the outcome (or dependent variable). So: Logistic regression is the correct type of analysis to use when you’re working with binary data. You know you’re dealing with binary data when the output or dependent variable is dichotomous or categorical in nature; in other words, if it fits into one of two categories (such as “yes” or “no”, “pass” or “fail”, and so on).
+
+
+
