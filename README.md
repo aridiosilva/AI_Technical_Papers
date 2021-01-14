@@ -114,9 +114,9 @@ Taking advantage of its powerful representational ability, the performance of ma
 
 Since ResNet blew people’s mind in 2015, many in the research community have dived into the secrets of its success, many refinements have been made in the architecture. This article is divided into two parts, in the first part I am going to give a little bit of background knowledge for those who are unfamiliar with ResNet, in the second I will review some of the papers I read recently regarding different variants and interpretations of the ResNet architecture.
 
-![Video - ResNet Explainde](https://youtu.be/sAzL4XMke80)
+[Video - ResNet Explainde](https://youtu.be/sAzL4XMke80)
 
-![source -  Deep Residual Learning for Image Recognition ](http://arxiv.org/abs/1512.03385v1)
+[source -  Deep Residual Learning for Image Recognition ](http://arxiv.org/abs/1512.03385v1)
 
 ```python
 import torch
