@@ -19,22 +19,24 @@ Convolutional Neural Networks are used to extract features from images, employin
 
 ### List of Methods found in Convolutional Neural Networks (CNN)
 
+The methods are listed (by the gretest for the lowest order) of the number of articles found describing them:
+
 - [ResNet](#resnet)
 - [AlexNet](#alexnet)
 - [VGG](#vgg) 
 - [DenseNet](#densenet)	
 - [MobileNetV2](#mobilenetv2)	
 - [GoogLeNet](#googlenet)	
-- [ResNeXt](#resnect)
+- [ResNeXt](#resnext)
 - [Darknet-53](#darkent-53)	
 - [EfficientNet](#efficientnet)	
 - [Xception](#Xception)
 - [SqueezeNet](#squeezenet)
 - [Inception-v3](#inception-v3)
 - [LeNet](#lenet)
-- [MobileNetV1])(#)
-- [Darknet-19](#)
-- [WideResNet](#)
+- [MobileNetV1])(#mobilenetv1)
+- [Darknet-19](#darknet-19)
+- [WideResNet](#wideresnet)
 - [ShuffleNet](#)
 - [MobileNetV3](#)
 - [SENet](#)
