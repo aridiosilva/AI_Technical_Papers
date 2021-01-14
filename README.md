@@ -48,10 +48,7 @@ On the other hand, a logistic regression produces a logistic curve, which is lim
 
 ## Similarity Functions
 
-### K Nearest Neighbors
-
-
-## K-Nearest Neighbors (k-NN)
+### K-Nearest Neighbors (k-NN)
 
 The k-nearest neighbors algorithm (k-NN) is a non-parametric machine learning method first developed by Evelyn Fix and Joseph Hodges in 1951, and later expanded by Thomas Cover. It is used for classification and regression. In both cases, the input consists of the k closest training examples in feature space. The output depends on whether k-NN is used for classification or regression:
 
@@ -115,6 +112,8 @@ Taking advantage of its powerful representational ability, the performance of ma
 Since ResNet blew people’s mind in 2015, many in the research community have dived into the secrets of its success, many refinements have been made in the architecture. This article is divided into two parts, in the first part I am going to give a little bit of background knowledge for those who are unfamiliar with ResNet, in the second I will review some of the papers I read recently regarding different variants and interpretations of the ResNet architecture.
 
 [Video - ResNet Explainde](https://youtu.be/sAzL4XMke80)
+
+[Lint to CNN - ResNet](https://d2l.ai/chapter_convolutional-modern/resnet.html)
 
 [source -  Deep Residual Learning for Image Recognition ](http://arxiv.org/abs/1512.03385v1)
 
