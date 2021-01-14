@@ -6,10 +6,6 @@ Papers about algorithms related to  the field of AI, Machine Learning, Deep Lear
 
 Data Science (a.k.a. Data Mining) is about explaining the past and predicting the future by means of data analysis.  Data science is a multi-disciplinary field which combines statistics, machine learning, artificial intelligence and database technology. 
 
- ![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/DM_map_explain_1.png)
-![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/DM_map_predict_1.png)
-
-
 ## Classification
 
 Classification is a data science task of predicting the value of a categorical variable (target or class) by building a model based on one or more numerical and/or categorical variables (predictors or attributes).		
