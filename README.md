@@ -17,19 +17,16 @@ There are various architectures of CNNs available which have been key in buildin
 
 Convolutional Neural Networks are used to extract features from images, employing convolutions as their primary operator. Below you can find a continuously updating list of convolutional neural networks.
 
-- [SRP Single Responsability Principle](#srp-single-responsability-principle)
+- [ResNet 1017](#resnet 2017)
+- [AlexNet 2012](#alexnet 2012)
+- [VGG 2014](#vgg 2014) 
+- [DenseNet 2016](#densenet 2016)	
+- [MobileNetV2 2018](#mobilenetv2 2901)	
+- [GoogLeNet 2014](#googlenet 2014)	
+- [ResNeXt 2016](#resnect 2016)
+- [Darknet-53 2018](#darkent-53 2018)	
+- [EfficientNet 2019](#efficientnet 2019)	
 
->   (             METHODS              )	
->   =====================================
->  - [ResNet 1017](#resnet 2017)
->  - [AlexNet 2012](#alexnet 2012)
->  - [VGG 2014](#vgg 2014) 
->  - [DenseNet 2016](#densenet 2016)	
->  - [MobileNetV2 2018](#mobilenetv2 2901)	
->  - [GoogLeNet 2014](#googlenet 2014)	
->  - [ResNeXt 2016](#resnect 2016)
->  - [Darknet-53 2018](#darkent-53 2018)	
->  - [EfficientNet 2019](#efficientnet 2019)	
 >  - Xception                2017	    64	
 >  - SqueezeNet              2016	    58	
 >  - Inception-v3            2015     54	
