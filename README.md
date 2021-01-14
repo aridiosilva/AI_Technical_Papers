@@ -87,4 +87,113 @@ Multiple linear regression is a regression model that estimates the relationship
 
 Logistic regression is a classification algorithm. It is used to predict a binary outcome based on a set of independent variables. A binary outcome is one where there are only two possible scenarios—either the event happens (1) or it does not happen (0). Independent variables are those variables or factors which may influence the outcome (or dependent variable). So: Logistic regression is the correct type of analysis to use when you’re working with binary data. You know you’re dealing with binary data when the output or dependent variable is dichotomous or categorical in nature; in other words, if it fits into one of two categories (such as “yes” or “no”, “pass” or “fail”, and so on).
 
+## Convolutional Neural Network (CNN or ConvNet)
+
+In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics. They have applications in image and video recognition, recommender systems, image classification, medical image analysis, natural language processing, brain-computer interfaces,[6] and financial time series.
+
+CNNs are regularized versions of multilayer perceptrons. Multilayer perceptrons usually mean fully connected networks, that is, each neuron in one layer is connected to all neurons in the next layer. The "fully-connectedness" of these networks makes them prone to overfitting data. Typical ways of regularization include adding some form of magnitude measurement of weights to the loss function. CNNs take a different approach towards regularization: they take advantage of the hierarchical pattern in data and assemble more complex patterns using smaller and simpler patterns. Therefore, on the scale of connectedness and complexity, CNNs are on the lower extreme.
+
+Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex. Individual cortical neurons respond to stimuli only in a restricted region of the visual field known as the receptive field. The receptive fields of different neurons partially overlap such that they cover the entire visual field.
+
+There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future. Some of them have been listed below:
+
+![](https://paperswithcode.com/methods/category/convolutional-neural-networks)
+
+
+- ResNet - 2015	
+- AlexNet - 2012	
+- VGG - 2014	
+- DenseNet - 2016	
+- MobileNetV2 - 2018	
+- GoogLeNet 2014	
+- ResNeXt 2016	
+- Darknet-53 2018	
+- EfficientNet 2019		
+- Xception 2017	
+- SqueezeNet 2016		
+- Inception-v3 2015		
+- LeNet 1998	
+- MobileNetV1 2017	
+- Darknet-19  2016	
+- WideResNet 2016
+- ShuffleNet 2017
+- MobileNetV3 2019
+- SENet 2017	
+- CSPDarknet53 2020
+- MnasNet 2018	
+- HRNet 2019
+- Inception-ResNet-v2 2016
+- PCB 2017	
+- DPN 2017	
+- ShuffleNet v2 2018	
+- Inception v2 2015
+- Inception-v4  2016
+- OverFeat 2013	
+- CheXNet 2017	
+- PyramidNet 2016	
+- AmoebaNet 2018	
+- FractalNet 2016	
+- RevNet 2017	
+- SimpleNet 2016
+- FBNet 2018	
+- DetNet 2018	
+- SpineNet 2019	
+- SNet 2019	
+- ResNet-D 2018	
+- ZFNet 2013	
+- Single-path NAS 2019
+- SqueezeNeXt 2018	
+- MixNet 2019	
+- PeleeNet 2018	
+- CSPResNeXt 2019	
+- GhostNet 2019	
+- ResNeSt 2020	
+- DenseNet-Elastic 2018
+- RegNetY 2020	
+- ScaleNet 2019	
+- VoVNet 2019	
+- ProxylessNet-GPU 2018	
+- ProxylessNet-Mobile 2018	
+- Assemble-ResNet 2020	
+- McKernel 2017	
+- ProxylessNet-CPU 2018	
+- Big-Little Net 2018	
+- TResNet 2020	
+- DenseNAS-B 2019	
+- DetNASNet 2019	
+- GreedyNAS-C 2020	
+- RandWire 2019	
+- CSPDenseNet-Elastic 2019	
+- PReLU-Net 2015	
+- DiCENet 2019	
+- Deep-CAPTCHA 2020	
+- CSPDenseNet 2019	
+- CornerNet-Squeeze Hourglass 2019	
+- RegNetX 2020	
+- SPP-Net 2014	
+- DenseNAS-A 2019	
+- ResNeXt-Elastic 2018	
+- VoVNetV2 2019	
+- MultiGrain 2019	
+- DenseNAS-C 2019	
+- ESPNetv2 2018	
+- MoGA-C 2019	
+- Harm-Net 2020	
+- CSPPeleeNet 2019	
+- uNetXST 2020	
+- GreedyNAS-B 2020	
+- MoGA-B 2019	
+- ECA-Net 2019	
+- SCARLET 2019	
+- MoGA-A 2019	
+- GreedyNAS-A 2020	
+- SKNet 2000
+
+## LeNet
+
+LeNet is a convolutional neural network structure proposed by Yann LeCun et al. in 1989. In general, LeNet refers to lenet-5 and is a simple convolutional neural network. Convolutional neural networks are a kind of feed-forward neural network whose artificial neurons can respond to a part of the surrounding cells in the coverage range and perform well in large-scale image processing. 
+
+LeNet is a classic convolutional neural network employing the use of convolutions, pooling and fully connected layers. It was used for the handwritten digit recognition task with the MNIST dataset. The architectural design served as inspiration for future networks such as AlexNet and VGG.
+
+## AlexNet
 
