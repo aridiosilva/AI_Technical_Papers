@@ -2,10 +2,6 @@
 
 Papers about algorithms related to  the field of AI, Machine Learning, Deep Learning and Neural Networks. In this repository there dozens of technical articles describing algorithms related to Artificial Intelligence.
 
-# Dive Into Deep Learning
-
-[excellent source - Dive Into Deep Learning ](https://d2l.ai/index.html))
-
 # Convolutional Neural Network (CNN or ConvNet)
 
 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics. They have applications in image and video recognition, recommender systems, image classification, medical image analysis, natural language processing, brain-computer interfaces,[6] and financial time series.
@@ -1949,3 +1945,6 @@ Logistic regression is a classification algorithm. It is used to predict a binar
 
 
 
+# Dive Into Deep Learning
+
+[excellent source - Dive Into Deep Learning ](https://d2l.ai/index.html))
