@@ -19,17 +19,17 @@ Convolutional Neural Networks are used to extract features from images, employin
 
 - [SRP Single Responsability Principle](#srp-single-responsability-principle)
 
->   (YEAR) (PAPERS      ) (           METHOD          )	
->   ===================================================
->  - 2015	 (Papers 2017	) [ResNet 1017](#resnet 2017)
->  - 2012	 (Papers  287	) [AlexNet 2012](#alexnet 2012)
->  - 2014	 (Papers  261	) [VGG 2014](#vgg 2014) 
->  - DenseNet                2016	    217	
->  - MobileNetV2             2018	    123	
->  - GoogLeNet               2014     110	
->  - ResNeXt                 2016	    97	
->  - Darknet-53              2018	    75	
->  - EfficientNet            2019	    71	
+>   (             METHODS              )	
+>   =====================================
+>  - [ResNet 1017](#resnet 2017)
+>  - [AlexNet 2012](#alexnet 2012)
+>  - [VGG 2014](#vgg 2014) 
+>  - [DenseNet 2016](#densenet 2016)	
+>  - [MobileNetV2 2018](#mobilenetv2 2901)	
+>  - [GoogLeNet 2014](#googlenet 2014)	
+>  - [ResNeXt 2016](#resnect 2016)
+>  - [Darknet-53 2018](#darkent-53 2018)	
+>  - [EfficientNet 2019](#efficientnet 2019)	
 >  - Xception                2017	    64	
 >  - SqueezeNet              2016	    58	
 >  - Inception-v3            2015     54	
