@@ -114,7 +114,7 @@ The methods are listed (by the gretest for the lowest order) of the number of ar
 
 Introduced by He et al. in Deep Residual Learning for Image Recognition
 
-![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-09-25_at_10.26.40_AM_SAB79fQ%20(1).png)
+![]()
 
 Residual Networks, or ResNets, learn residual functions with reference to the layer inputs, instead of learning unreferenced functions. Instead of hoping each few stacked layers directly fit a desired underlying mapping, residual nets let these layers fit a residual mapping. They stack residual blocks on top of each other to form network: e.g. a ResNet-50 has fifty layers using these blocks. 
 
@@ -709,6 +709,8 @@ if __name__ == '__main__':
 # VGG	
 
 Introduced by Simonyan et al. in Very Deep Convolutional Networks for Large-Scale Image Recognition
+
+![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-09-25_at_10.26.40_AM_SAB79fQ%20(1).png)
  
 VGG is a classical convolutional neural network architecture. It was based on an analysis of how to increase the depth of such networks. The network utilises small 3 x 3 filters. Otherwise the network is characterized by its simplicity: the only other components being pooling layers and a fully connected layer.
 
