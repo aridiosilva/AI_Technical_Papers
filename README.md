@@ -129,7 +129,7 @@ Since ResNet blew people’s mind in 2015, many in the research community have d
 
 [Video - ResNet Explainde](https://youtu.be/sAzL4XMke80)
 
-[Lint to CNN - ResNet](https://d2l.ai/chapter_convolutional-modern/resnet.html)
+[source Residual Networks](https://d2l.ai/chapter_convolutional-modern/resnet.html)
 
 [source -  Deep Residual Learning for Image Recognition ](http://arxiv.org/abs/1512.03385v1)
 
