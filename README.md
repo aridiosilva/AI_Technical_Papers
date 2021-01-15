@@ -35,7 +35,7 @@ The methods are listed (by the gretest for the lowest order) of the number of ar
 - [SqueezeNet](#squeezenet)
 - [Inception-v3](#inception-v3)
 - [LeNet](#lenet)
-- [MobileNetV1])(#mobilenetv1)
+- [MobileNetV1](#mobilenetv1)
 - [Darknet-19](#darknet-19)
 - [WideResNet](#wideresnet)
 - [ShuffleNet](#)
@@ -3895,10 +3895,6 @@ LeNet is a classic convolutional neural network employing the use of convolution
 
 LeNet is a convolutional neural network structure proposed by Yann LeCun et al. in 1989. In general, LeNet refers to lenet-5 and is a simple convolutional neural network. Convolutional neural networks are a kind of feed-forward neural network whose artificial neurons can respond to a part of the surrounding cells in the coverage range and perform well in large-scale image processing. 
 
-![usage](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Usage_From_2015_up_to_2021_LENTE.jpg)
- [source - https://paperswithcode.com/method/lenet](https://paperswithcode.com/method/lenet)
-  
-
 [Tecnhical Papers related to LeNet](https://paperswithcode.com/method/lenet)
 
 [Code Sample implementing LeNet](https://github.com/activatedgeek/LeNet-5)
@@ -4115,6 +4111,8 @@ if __name__ == '__main__':
 
 
 # MobileNetV1
+
+
 
 # Darknet-19	
 
