@@ -904,6 +904,8 @@ def vgg19_bn(pretrained=False, progress=True, **kwargs):
 # DenseNet	
 
 Introduced by Huang et al. in Densely Connected Convolutional Networks
+
+![DenseNet](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-20_at_11.35.53_PM_KroVKVL.png)
  
 A DenseNet is a type of convolutional neural network that utilises dense connections between layers, through Dense Blocks, where we connect all layers (with matching feature-map sizes) directly with each other. To preserve the feed-forward nature, each layer obtains additional inputs from all preceding layers and passes on its own feature-maps to all subsequent layers.
 
