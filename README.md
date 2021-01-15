@@ -116,7 +116,7 @@ The methods are listed (by the gretest for the lowest order) of the number of ar
 Introduced by He et al. in Deep Residual Learning for Image Recognition
 
 ![usage](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Usage_From_2015_up_to_2021_ResNet_001.jpg)
- [source - https://paperswithcode.com/method/lenet](https://paperswithcode.com/method/lenet)
+        graphic source - https://paperswithcode.com/method/resnet
   
 
 Residual Networks, or ResNets, learn residual functions with reference to the layer inputs, instead of learning unreferenced functions. Instead of hoping each few stacked layers directly fit a desired underlying mapping, residual nets let these layers fit a residual mapping. They stack residual blocks on top of each other to form network: e.g. a ResNet-50 has fifty layers using these blocks. 
