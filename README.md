@@ -3888,8 +3888,9 @@ LeNet is a classic convolutional neural network employing the use of convolution
 
 LeNet is a convolutional neural network structure proposed by Yann LeCun et al. in 1989. In general, LeNet refers to lenet-5 and is a simple convolutional neural network. Convolutional neural networks are a kind of feed-forward neural network whose artificial neurons can respond to a part of the surrounding cells in the coverage range and perform well in large-scale image processing. 
 
-
 [Tecnhical Papers related to LeNet](https://paperswithcode.com/method/lenet)
+
+[Code Sample implementing LeNet](https://github.com/sujaybabruwad/LeNet-in-Tensorflow/blob/master/LeNet-Lab.ipynb)
 
 
 # MobileNetV1
