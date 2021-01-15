@@ -1,6 +1,6 @@
-# AI_Technical_Papers
+# AI_Technical_Papers With Sample Code Snippets
 
-Papers about algorithms related to  the field of AI, Machine Learning, Deep Learning and Neural Networks. In this repository there dozens of technical articles describing algorithms related to Artificial Intelligence.
+Papers about algorithms related to  the field of AI, Machine Learning, Deep Learning and Neural Networks. In this repository there dozens of technical articles describing algorithms related to Artificial Intelligence, and also with Code
 
 # Convolutional Neural Network (CNN or ConvNet)
 
