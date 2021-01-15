@@ -10,6 +10,8 @@ CNNs are regularized versions of multilayer perceptrons. Multilayer perceptrons 
 
 Convolutional networks were inspired by biological processes in that the connectivity pattern between neurons resembles the organization of the animal visual cortex. Individual cortical neurons respond to stimuli only in a restricted region of the visual field known as the receptive field. The receptive fields of different neurons partially overlap such that they cover the entire visual field.
 
+![cnn](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/1_vkQ0hXDaQv57sALXAJquxA.jpeg)
+
 There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future. Some of them have been listed below:
 
 (https://paperswithcode.com/methods/category/convolutional-neural-networks)
