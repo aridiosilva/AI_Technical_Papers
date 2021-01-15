@@ -487,6 +487,8 @@ def wide_resnet101_2(pretrained=False, progress=True, **kwargs):
 
 Introduced by Krizhevsky et al. in ImageNet Classification with Deep Convolutional Neural Networks
 
+![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-22_at_6.35.45_PM.png)
+
 AlexNet is a classic convolutional neural network architecture. It consists of convolutions, max pooling and dense layers as the basic building blocks. Grouped convolutions are used in order to fit the model across two GPUs.
 
 [Source: Technical Paper - ImageNet Classification with Deep Convolutional Neural Networks]()
@@ -494,6 +496,10 @@ AlexNet is a classic convolutional neural network architecture. It consists of c
 [AlexNet]{https://d2l.ai/chapter_convolutional-modern/alexnet.html?highlight=alexnet
 
 [Code Snippet](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
+
+![](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Usage_From_2015_up_to_2021_AlexNe_001.jpg)
+source: https://paperswithcode.com/method/alexnet
+
 
 ```python
 """
