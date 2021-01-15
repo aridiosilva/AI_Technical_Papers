@@ -1393,6 +1393,8 @@ def mobilenet_v2(pretrained=False, progress=True, **kwargs):
 # GoogLeNet	
 
 GoogLeNet Introduced by Szegedy et al. in Going Deeper with Convolutions
+
+![GoogLeNet](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-22_at_3.28.59_PM.png)
  
 GoogLeNet is a type of convolutional neural network based on the Inception architecture. It utilises Inception modules, which allow the network to choose between multiple convolutional filter sizes in each block. An Inception network stacks these modules on top of each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid.
 
