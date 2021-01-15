@@ -3890,7 +3890,7 @@ LeNet is a convolutional neural network structure proposed by Yann LeCun et al. 
 
 [Tecnhical Papers related to LeNet](https://paperswithcode.com/method/lenet)
 
-[Code Sample implementing LeNet](https://github.com/sujaybabruwad/LeNet-in-Tensorflow/blob/master/LeNet-Lab.ipynb)
+[Code Sample implementing LeNet](https://github.com/activatedgeek/LeNet-5)
 
 
 # MobileNetV1
