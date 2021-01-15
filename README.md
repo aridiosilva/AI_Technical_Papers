@@ -4114,7 +4114,7 @@ if __name__ == '__main__':
 
 Introduced by Howard et al. in MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 
-![MobileNetV1}(https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-22_at_4.26.15_PM_ko4FqXD.png)
+![MobileNetV1](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-22_at_4.26.15_PM_ko4FqXD.png)
  
 MobileNet is a type of convolutional neural network designed for mobile and embedded vision applications. They are based on a streamlined architecture that uses depthwise separable convolutions to build lightweight deep neural networks that can have low latency for mobile and embedded devices.
 
