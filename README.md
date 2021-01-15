@@ -1194,6 +1194,8 @@ def densenet201(pretrained=False, progress=True, **kwargs):
 
 Introduced by Sandler et al. in MobileNetV2: Inverted Residuals and Linear Bottlenecks
 
+![MobileNetV2](https://github.com/aridiosilva/AI_Technical_Papers/blob/master/Screen_Shot_2020-06-06_at_10.37.14_PM.png)
+
 MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. It is based on an inverted residual structure where the residual connections are between the bottleneck layers. The intermediate expansion layer uses lightweight depthwise convolutions to filter features as a source of non-linearity. As a whole, the architecture of MobileNetV2 contains the initial fully convolution layer with 32 filters, followed by 19 residual bottleneck layers.
 
 [Source:  MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381v4)
